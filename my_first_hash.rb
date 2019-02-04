@@ -1,6 +1,6 @@
 def my_hash
 mlk_school = {"students" => "200", "books" => "400", "grade" => "seniors" }
-return 
+return
 end
 
 
