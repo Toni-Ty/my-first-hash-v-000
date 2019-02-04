@@ -1,13 +1,14 @@
 def my_hash
-mlk_school = {"students" => "200", "books" => "400", "grade" => "seniors" }
-return mlk_school
+  mlk_school = {"students" => "200", "books" => "400", "grade" => "seniors" }
+  return mlk_school
 end
 
-
-def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
   # fill that hash with key/value pairs that describe the following information:
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
+  def shipping_manifest
+    the_manifest = {"whale bone corsets" => "5", "porcelain vases" => "2", "oil painitngs" => "3"}
+  end
 
 
 end
